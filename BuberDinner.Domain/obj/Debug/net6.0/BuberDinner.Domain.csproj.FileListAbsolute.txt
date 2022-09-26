@@ -1,0 +1,12 @@
+E:\3. Ujek\Data Pribadi\RND\CleanArchitecture\BuberDinner\BuberDinner.Domain\bin\Debug\net6.0\BuberDinner.Domain.deps.json
+E:\3. Ujek\Data Pribadi\RND\CleanArchitecture\BuberDinner\BuberDinner.Domain\bin\Debug\net6.0\BuberDinner.Domain.dll
+E:\3. Ujek\Data Pribadi\RND\CleanArchitecture\BuberDinner\BuberDinner.Domain\bin\Debug\net6.0\BuberDinner.Domain.pdb
+E:\3. Ujek\Data Pribadi\RND\CleanArchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net6.0\BuberDinner.Domain.csproj.AssemblyReference.cache
+E:\3. Ujek\Data Pribadi\RND\CleanArchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net6.0\BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\3. Ujek\Data Pribadi\RND\CleanArchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net6.0\BuberDinner.Domain.AssemblyInfoInputs.cache
+E:\3. Ujek\Data Pribadi\RND\CleanArchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net6.0\BuberDinner.Domain.AssemblyInfo.cs
+E:\3. Ujek\Data Pribadi\RND\CleanArchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net6.0\BuberDinner.Domain.csproj.CoreCompileInputs.cache
+E:\3. Ujek\Data Pribadi\RND\CleanArchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net6.0\BuberDinner.Domain.dll
+E:\3. Ujek\Data Pribadi\RND\CleanArchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net6.0\refint\BuberDinner.Domain.dll
+E:\3. Ujek\Data Pribadi\RND\CleanArchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net6.0\BuberDinner.Domain.pdb
+E:\3. Ujek\Data Pribadi\RND\CleanArchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net6.0\ref\BuberDinner.Domain.dll
